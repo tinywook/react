@@ -59,7 +59,7 @@ Even though react-dom is the most used renderer, there are a few others you migh
 
 ## `React.createElement` and JSX
 
-Given we are operating with virtual DOM, there's a [high level API](https://facebook.github.io/react/docs/top-level-api.html) for handling it. A naïve React component written using the JavaScript API could look like this:
+Given we are operating with virtual DOM, there's a [high level API](https://facebook.github.io/react/docs/top-level-api.html) for handling it. A native React component written using the JavaScript API could look like this:
 
 ```javascript
 const Names = () => {
